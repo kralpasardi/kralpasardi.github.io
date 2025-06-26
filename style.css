@@ -253,7 +253,7 @@ p {
 .kiln-text {
     font-size: clamp(8rem, 15vw, 25rem);
     font-weight: 900;
-    color: #FFFFFF;
+    color: #4287f5;
     text-align: center;
     letter-spacing: -0.05em;
     line-height: 0.8;
